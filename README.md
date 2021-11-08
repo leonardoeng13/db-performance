@@ -1,11 +1,9 @@
-## Getting Started
+## Vet clinic database: database performance audit ## 
+ 
+In this project we showcase how to optimize some slow queries in a database.
 
-This repository includes files with plain SQL that can be used to recreate a database and table(Schema: vet_clinic):
-
-- Use [schema.sql](./schema.sql) to create the Database and animals table.
-- Use [data.sql](./data.sql) to populate table with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+Built With
+- PostgreSQL
 
 ## Authors
 
@@ -17,9 +15,10 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Mateo**
 
-- GitHub: [@leonardoeng13](https://github.com/githubhandle)
-- Twitter: [@Leo de Andrade](https://twitter.com/andrede_leo)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/leonardodeandrade)
+GitHub: [@mateo951](https://github.com/mateo951)<br>
+Twitter: [@MVGameDev](https://twitter.com/MVGameDev)<br>
+LinkedIn: [@Mateo Villagómez](https://www.linkedin.com/in/mateo-villagómez/)<br>
+
 
 ## 🤝 Contributing
 
