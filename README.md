@@ -2,6 +2,8 @@
  
 In this project we showcase how to optimize some slow queries in a database.
 
+![ScreenShot](./images/diagram.png?raw=true)
+
 Built With
 - PostgreSQL
 
