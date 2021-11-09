@@ -1,31 +1,24 @@
-# curriculum-databases-projects-template
+## Vet clinic database: database performance audit ## 
+ 
+In this project we showcase how to optimize some slow queries in a database.
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+Built With
+- PostgreSQL
 
 ## Authors
 
-👤 **Author1**
+👤 **Leo de Andrade**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@leonardoeng13](https://github.com/githubhandle)
+- Twitter: [@Leo de Andrade](https://twitter.com/andrede_leo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/leonardodeandrade)
 
-👤 **Author2**
+👤 **Mateo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+GitHub: [@mateo951](https://github.com/mateo951)<br>
+Twitter: [@MVGameDev](https://twitter.com/MVGameDev)<br>
+LinkedIn: [@Mateo Villagómez](https://www.linkedin.com/in/mateo-villagómez/)<br>
+
 
 ## 🤝 Contributing
 
